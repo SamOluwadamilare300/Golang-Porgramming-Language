@@ -33,11 +33,12 @@ This is a compilation of the **Beginner Golang Tutorial Course** inspired by **G
 
 ---
 
-### **Advanced Course:** *(Coming Soon...)*
+### **Advanced Course:** 
 
 1. **Concurrency and Goroutines** – Understanding parallel execution
 2. **Channels and Buffered Channels** – Managing data exchange between goroutines
 3. **Mutex and Wait Groups** – Handling race conditions
+     **(Coming Soon...)**
 4. **Working with JSON** – Encoding and decoding JSON data
 5. **Building and Using APIs** – Creating RESTful APIs with Go
 6. **Handling Errors and Panics** – Proper error management
